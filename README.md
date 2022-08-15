@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/101207246/184686661-775630be-8d8c-4e7b
 
 ![E-Store - Google Chrome 15 08 2022 19_59_59](https://user-images.githubusercontent.com/101207246/184684080-480d7b8c-2185-4060-92db-a2fc2fc6cb43.png)
 
-#### Navbarımızda bulunan Cart sayfasına gittiğimizde ise basketimizi ayrı bir sayfada görüntüleyebiliriz, silme işlemi de aynı şekilde yapılabilir. Sepetimizin toplam tutarı ise alt kısımda gösterilmektedir.
+#### Navbarımızda bulunan Cart sayfasına gittiğimizde ise sepetimizi ayrı bir sayfada görüntüleyebiliriz, silme işlemi de aynı şekilde yapılabilir. Sepetimizin toplam tutarı ise alt kısımda gösterilmektedir.
 
 ![E-Store - Google Chrome 15 08 2022 20_00_21](https://user-images.githubusercontent.com/101207246/184684707-1a645988-e6b0-42e2-9624-68a6c9864fb5.png)
 
