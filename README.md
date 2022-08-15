@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# E-STORE PROJECT 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Projede yapılanlar:
+* Navbar, client side yapıldı,
+* Sayfa geçişlerinde framer-motion kullanıldı,
+* Product sayfasındaki ürünler, Axios ile çekildi,
+* Projenin genelinde Bootstrap kullanıldı,
+* Projedeki ikonlar, Font Awesome üzerinden alındı,
+* Form kontrolleri, Formik ve Yup ile yapıldı,
+* Sepetteki ürünler, Context yapısıyla tutuldu,
+* Projeye için olası durumlar için Error Page eklendi,
 
-## Available Scripts
 
-In the project directory, you can run:
+### Bu proje, Kodluyoruz React bootcampi kapsamında yapmış olduğum final projemdir. Proje, ilerleyen zamanda daha fazla geliştirilecektir.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://user-images.githubusercontent.com/101207246/184686108-0b25e1ed-b95d-4a22-9b75-c2c9f30343f0.mp4
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+https://user-images.githubusercontent.com/101207246/184686661-775630be-8d8c-4e7b-8c8f-915d483fd4bc.mp4
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### Sitenin giriş sayfası bu şekildedir:
+![E-Store - Google Chrome 15 08 2022 20_01_09](https://user-images.githubusercontent.com/101207246/184682928-55196540-4e29-475e-a4d8-19c3a35cba27.png)
+##### Sign Up ile kayıt olduktan sonra giriş yapılırsa :
+![E-Store - Google Chrome 15 08 2022 20_01_19](https://user-images.githubusercontent.com/101207246/184683200-806f7074-00e2-478c-9857-2715337e4feb.png)
+###### Eğer inputlar doldurulmazsa uygulamamda kullandığım Formik ve Yup sayesinde uyarı göstermektedir;
+![E-Store - Google Chrome 15 08 2022 20_03_08](https://user-images.githubusercontent.com/101207246/184683395-4e0113bf-801c-4c6a-8e20-bf660051ab35.png)
+##### Log In ile giriş yapılırsa da yine aynı şekilde uyarı göstermektedir:
+![E-Store - Google Chrome 15 08 2022 20_02_42](https://user-images.githubusercontent.com/101207246/184683512-be69945e-44af-4c2b-b4c6-c74d2a6d0566.png)
+#### Giriş yapıldıktan sonra gösterilen anasayfa bu şekildedir:
+![E-Store - Google Chrome 15 08 2022 19_59_46](https://user-images.githubusercontent.com/101207246/184683769-8891a4fb-00ba-4faa-a1a2-2cb9e2a67f39.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Sepetimize eklediğimiz ürünler anasayfada bulunan basket ikonuna tıklandığında sepette gösterilmektedir ve ürünlerin sepetten çıkartılma işlemleri yapılabilir. Sepet toplamımız da kullanıcıya eş zamanlı belirtilir.
+![E-Store - Google Chrome 15 08 2022 19_59_59](https://user-images.githubusercontent.com/101207246/184684080-480d7b8c-2185-4060-92db-a2fc2fc6cb43.png)
+#### Navbarımızda bulunan Cart sayfasına gittiğimizde ise basketimizi ayrı bir sayfada görüntüleyebiliriz, silme işlemi de aynı şekilde yapılabilir. Sepetimizin toplam tutarı ise alt kısımda gösterilmektedir.
+![E-Store - Google Chrome 15 08 2022 20_00_21](https://user-images.githubusercontent.com/101207246/184684707-1a645988-e6b0-42e2-9624-68a6c9864fb5.png)
+#### Navbarımızda bulunan Product sayfasına gittiğimizde ürünlerimizi kategorilerine göre filtrelendirilmiş olarak görüntüleyebiliriz. Veriler çekilirken Axios kullanıldı.
+![E-Store - Google Chrome 15 08 2022 20_00_46](https://user-images.githubusercontent.com/101207246/184684933-0fc88003-1476-478c-b72d-319b459a4327.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Navbarımızda bulunan Account sayfasına gittiğimizde şu an için fonksiyonel bir yapı bulunmamaktadır, fakat ilerleyen zamanlarda kullanıcı bilgilerini aktaracaktır.
+![E-Store - Google Chrome 15 08 2022 20_00_57](https://user-images.githubusercontent.com/101207246/184685343-c1fe0b97-6636-46d5-b7dd-97f720c3fa30.png)
+#### Son olarak, Navbarımızda bulunan Log Out butonuna tıkladığımızda projenin giriş yapma sayfasına geri dönülmektedir.
