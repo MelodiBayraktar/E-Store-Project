@@ -10,7 +10,7 @@
 * Projedeki ikonlar, Font Awesome üzerinden alındı,
 * Form kontrolleri, Formik ve Yup ile yapıldı,
 * Sepetteki ürünler, Context yapısıyla tutuldu,
-* Projeye için olası durumlar için Error Page eklendi.
+* Olası durumlar için Error Page eklendi.
 
 
 https://user-images.githubusercontent.com/101207246/184686108-0b25e1ed-b95d-4a22-9b75-c2c9f30343f0.mp4
