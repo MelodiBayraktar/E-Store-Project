@@ -1,0 +1,10 @@
+.card {
+  box-shadow: 0 5px 5px rgba(212, 185, 150, 0.5);
+  transition: 0.5s;
+  text-align: center;
+}
+.card:hover {
+  transform: scale(0.8);
+  background-color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}

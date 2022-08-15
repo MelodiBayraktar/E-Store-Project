@@ -1,0 +1,24 @@
+  .pageTitle{
+    font-family: "Lato";
+    font-size: calc(1.375rem + 1.5vw);
+  }
+ .basketBox{
+    margin-right: 230px;
+    margin-left: 200px;
+  }
+  .basketCard {
+    height: max-content;
+    overflow-y: auto;
+   
+  }
+  .cardMessage{
+    text-align: center;
+  }
+  .basketCardTotal {
+    margin: 10px 10px 50px 40px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    
+  }
+  

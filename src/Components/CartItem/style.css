@@ -1,0 +1,42 @@
+.cartItem {
+    border-bottom: 1px solid gray;
+    padding: 10px 0;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  li {
+    list-style-type: none;
+    height: 100px;
+    gap: 5px;
+    align-items: center;
+    
+  }
+  
+  li img {
+    height: 100%;
+    width: 100px;
+    object-fit: contain;
+    
+  }
+  .productTitle{
+    margin-left: 60px;
+
+  }
+  .productPrice{
+    margin-left: 70px;
+    margin-right: 30px;
+    justify-content: center;
+  }
+  .cartButton {
+    margin-left: auto;
+    margin-right: 10px;
+    padding: 6px;
+    border: none;
+    cursor: pointer;
+    
+  }
+  
+ 
