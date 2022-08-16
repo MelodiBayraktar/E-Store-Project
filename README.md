@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/101207246/184686661-775630be-8d8c-4e7b
 
 ![E-Store - Google Chrome 15 08 2022 20_01_19](https://user-images.githubusercontent.com/101207246/184683200-806f7074-00e2-478c-9857-2715337e4feb.png)
 
-###### Eğer inputlar doldurulmazsa uygulamamda kullandığım Formik ve Yup sayesinde uyarı göstermektedir;
+###### Eğer inputlar doldurulmazsa uygulamamda kullandığım Formik ve Yup sayesinde uyarı göstermektedir:
 
 ![E-Store - Google Chrome 15 08 2022 20_03_08](https://user-images.githubusercontent.com/101207246/184683395-4e0113bf-801c-4c6a-8e20-bf660051ab35.png)
 
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/101207246/184686661-775630be-8d8c-4e7b
 
 ![E-Store - Google Chrome 15 08 2022 19_59_46](https://user-images.githubusercontent.com/101207246/184683769-8891a4fb-00ba-4faa-a1a2-2cb9e2a67f39.png)
 
-#### Sepetimize eklediğimiz ürünler anasayfada bulunan basket ikonuna tıklandığında sepette gösterilmektedir ve ürünlerin sepetten çıkartılma işlemleri yapılabilir. Sepet toplamımız da kullanıcıya eş zamanlı belirtilir.
+#### Sepetimize eklediğimiz ürünler, anasayfada bulunan basket ikonuna tıklandığında sepette gösterilmektedir ve ürünlerin sepetten çıkartılma işlemleri yapılabilir. Sepet toplamımız da kullanıcıya eş zamanlı belirtilir.
 
 ![E-Store - Google Chrome 15 08 2022 19_59_59](https://user-images.githubusercontent.com/101207246/184684080-480d7b8c-2185-4060-92db-a2fc2fc6cb43.png)
 
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/101207246/184686661-775630be-8d8c-4e7b
 
 ![E-Store - Google Chrome 15 08 2022 20_00_46](https://user-images.githubusercontent.com/101207246/184684933-0fc88003-1476-478c-b72d-319b459a4327.png)
 
-#### Navbarımızda bulunan Account sayfasına gittiğimizde şu an için fonksiyonel bir yapı bulunmamaktadır, fakat ilerleyen zamanlarda kullanıcı bilgilerini aktaracaktır.
+#### Navbarımızda bulunan Account sayfasına gittiğimizde şu an için dinamik bir yapı bulunmamaktadır, fakat ilerleyen zamanlarda kullanıcı bilgileri aktarılacaktır.
 
 ![E-Store - Google Chrome 15 08 2022 20_00_57](https://user-images.githubusercontent.com/101207246/184685343-c1fe0b97-6636-46d5-b7dd-97f720c3fa30.png)
 
