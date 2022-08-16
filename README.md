@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/101207246/184686661-775630be-8d8c-4e7b
 
 ![E-Store - Google Chrome 15 08 2022 20_00_21](https://user-images.githubusercontent.com/101207246/184684707-1a645988-e6b0-42e2-9624-68a6c9864fb5.png)
 
-#### Navbarımızda bulunan Product sayfasına gittiğimizde ürünlerimizi kategorilerine göre filtrelendirilmiş olarak görüntüleyebiliriz. Veriler çekilirken Axios kullanıldı.
+#### Navbarımızda bulunan Product sayfasına gittiğimizde ürünlerimizi kategorilerine göre filtrelendirilmiş olarak görüntüleyebiliriz. 
 
 ![E-Store - Google Chrome 15 08 2022 20_00_46](https://user-images.githubusercontent.com/101207246/184684933-0fc88003-1476-478c-b72d-319b459a4327.png)
 
